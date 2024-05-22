@@ -9,4 +9,4 @@ En esta sesion se utiliza markdown y se modifico el archivo **.ignore** para que
 
 1. .gitignore
 2. README.md
-   3 clave.txt
+3. clave.txt
